@@ -1,0 +1,7 @@
+[package]
+name = "rahk"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rdev = "0.5.1"
